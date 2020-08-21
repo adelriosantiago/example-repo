@@ -1,0 +1,3 @@
+new fileA
+new fileA
+new fileA
