@@ -15,8 +15,10 @@
   "address": "6848 Tompkins Avenue, Wright, Louisiana, 1543",
   "about": "Eiusmod irure ipsum non proident eiusmod ex velit non sit ea nisi magna pariatur ipsum. Nisi ad eiusmod occaecat adipisicing quis sint quis ea sint officia nostrud et proident. Excepteur exercitation aute ut reprehenderit qui aliqua nisi veniam amet elit nulla sit.\r\nNulla aute aliquip irure duis id mollit excepteur est. Commodo ea consectetur laborum consectetur minim cupidatat. Laborum amet magna sint et cupidatat eu laboris eiusmod nostrud mollit mollit. Nulla nostrud sint amet proident consequat est. Laborum ea do irure Lorem culpa cillum exercitation amet velit ad tempor Lorem. Ex nulla sint culpa velit eiusmod incididunt laborum ipsum excepteur ullamco. Aliquip culpa occaecat commodo officia nostrud proident commodo qui laboris consectetur mollit ut.\r\nEx deserunt aliquip velit occaecat magna proident nulla. Consectetur anim amet aute dolore dolor nisi aliqua et. Incididunt pariatur et sunt cupidatat elit sit minim sit consequat velit amet.\r\n",
   "registered": "2017-08-25T01:44:56 +05:00",
-  "latitude": 81.968641231233,
-  "longitude": 52.163453455555,
+  "sample": "data",
+  "abc": 123,
+  "latitude": 81.96864123134345153533233,
+  "longitude": 52.163453451235135135555,
   "tags": [
     "sit",
     "tempor",
